@@ -7,6 +7,7 @@ public class RestApiTest {
 	@Test
 	public void RestApiAutomation() {
 		System.out.println("RestApiAutomation");
+		System.out.println("MobileTest");
 	}
 	
 	@Test
